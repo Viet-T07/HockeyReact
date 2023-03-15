@@ -1,0 +1,12 @@
+.league-standings{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.division-standings{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 0.875em;
+}

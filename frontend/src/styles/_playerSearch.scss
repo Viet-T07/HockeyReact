@@ -1,0 +1,9 @@
+.playerSearchContainer{
+    display: flex;
+    flex-direction: column;
+    .playerSearchBox{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+}

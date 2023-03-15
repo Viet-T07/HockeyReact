@@ -1,0 +1,81 @@
+@import "_player.scss";
+@import "_playerList.scss";
+@import "_playerSearch.scss";
+@import "_teamContracts.scss";
+@import "_leagueStandings.scss";
+@import "_teamOverview.scss";
+@import "_teamtabs.scss";
+@import "_draft.scss";
+@import "_teamGrid.scss";
+
+.pt-2{
+    padding-top: 0.875em;
+}
+
+.pb-2{
+    padding-bottom: 0.875em;
+}
+
+.mr-2{
+    margin-right: 0.875em;
+}
+
+.ml-2{
+    margin-left: 0.875em;
+}
+
+.mt-2{
+    margin-top: 0.875em;
+}
+
+.mt-4{
+    margin-top: 1.75em;
+}
+
+.mb-2{
+    margin-bottom: 0.875em;
+}
+
+.mw-40{
+    max-width: 40%;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.align-items-end{
+    align-items: flex-end;
+}
+
+.justify-content-center{
+    justify-content: center;
+}
+
+.justify-content-space-between{
+    justify-content: space-between;
+}
+
+.mw-70{
+    min-width: 70%;
+}
+
+.mw-100{
+    min-width: 100%;
+}
+
+.mw-150{
+    min-width: 200%;
+}
+
+.mw-auto{
+    min-width: auto;
+}
+
+.d-flex{
+    display:flex
+}
+
+.flex-column{
+    flex-direction: column;
+}
